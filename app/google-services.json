@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "827650385095",
+    "project_id": "twittersyncadapterapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827650385095:android:4df9e9902662eb69",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.initialtwittersyncadapter.sync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZVwTXISGzr898zmwADpQpANx_-ZBzHbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827650385095:android:5f4e3410d6ff4a9e",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.initialtwittersyncadapter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZVwTXISGzr898zmwADpQpANx_-ZBzHbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
